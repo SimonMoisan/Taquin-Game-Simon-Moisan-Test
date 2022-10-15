@@ -29,3 +29,7 @@ Vous devez créer un jeu de taquins dans une nouvelle scène Unity et la connect
 
 ## Compilation IOS et Android
 le jeu doit compiler sous IOS et sous Android. Bien-sûr, le logo utilisé pour les taquins doit correspondre à la plate-forme ciblée.
+
+
+##Notes
+Il est possible d'activer ou désactiver une triche dans le script GameGridManager pour pouvoir déplacer les pièces même si elles ne sont pas voisines avec la case vide (utile pour debugger et tester).
